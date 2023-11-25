@@ -47,13 +47,12 @@ RTL realization
 # CODE:
 
 
- 
- ### HALF ADDER:
+###  HALF ADDER:
 
 ![code](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/ed03c978-9976-4768-b20d-9bd1c19f7c0d)
 
 
-### FULL ADDER:
+###  FULL ADDER:
  
 ![code](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/0dd71692-6d06-46fd-ad6c-70f4592375cd)
 
@@ -61,12 +60,12 @@ RTL realization
 # RTL DIAGRAM:
 
 
-### HALF ADDER:
+###  HALF ADDER:
 
 6![logic diagram](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/c41003ac-103a-4e65-83a1-72d49a1a20f8)
 
 
-### FULL ADDER:
+###  FULL ADDER:
 
 
 ![RTL](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/10175a65-46e0-481f-a3d0-630388dacb15)
@@ -74,24 +73,24 @@ RTL realization
 
 # TIMING DIAGRAM:
 
-### HALF ADDER:
+###  HALF ADDER:
 
 ![output](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/b2bea0d1-09c2-47b1-b74b-482b8dd05882)
 
  
-### FULL ADDER:
+###  FULL ADDER:
 
 ![output](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/357d177c-971a-4dad-927f-17c6708fe7da)
 
 
 # TRUTH TABLE:
 
-### HALF ADDER:
+###  HALF ADDER:
 
 ![truth table](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/e42e2138-08a6-42c1-8804-8dabef3acfe0)
 
 
-### FULL ADDER:
+###  FULL ADDER:
 
 ![truth table](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/49f7a144-0e2d-4bb0-bbdb-d174679e8dd0)
 
