@@ -47,19 +47,47 @@ RTL realization
 CODE:
                                                                   HALF ADDER:
 
-       ![coode 2023-11-25 at 17 55 53_812df19a](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/70374ae7-337c-4393-a65a-4f90593bea18)
+![code](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/ed03c978-9976-4768-b20d-9bd1c19f7c0d)
 
 
                                                                  FULL ADDER:
+![code](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/0dd71692-6d06-46fd-ad6c-70f4592375cd)
 
 
-### RTL
-### TIMING DIAGRAM
+### RTL:
+
+                                                                   HALF ADDER:
+
+6![logic diagram](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/c41003ac-103a-4e65-83a1-72d49a1a20f8)
+
+
+                                                                   FULL ADDER:
+![RTL](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/8b56cdcd-3a26-4c00-b1e4-774d419674ba)
+
+
+
+### TIMING DIAGRAM:
+
+
+                                                                    HALF ADDER:
+![output](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/b2bea0d1-09c2-47b1-b74b-482b8dd05882)
+
+ 
+
+                                                                    FULL ADDER:
+![output](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/357d177c-971a-4dad-927f-17c6708fe7da)
 
 
 ### TRUTH TABLE:
 
+                                                                     HALF ADDER:
+![truth table](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/e42e2138-08a6-42c1-8804-8dabef3acfe0)
 
-### Output:
 
-### Result:
+
+                                                                     FULL ADDER:
+![truth table](https://github.com/Harevasu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147985044/49f7a144-0e2d-4bb0-bbdb-d174679e8dd0)
+
+
+
+### Result: Thus, The Implementation of Half Adder and Full Adder circuit are verified
